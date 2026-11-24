@@ -1,0 +1,33 @@
+[build]
+  command = "bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.3"
+
+# Production deploys come only from the main branch.
+# Every production deploy costs 15 credits on the Netlify Free plan
+# (checked 2026-11-24, Netlify docs), so production is batched to
+# one deploy per week by the operating rules in the migration plan.
+[context.production]
+  command = "bundle exec jekyll build"
+
+# Deploy Previews and branch deploys cost 0 credits — use them for
+# all proofreading and checks before merging to main.
+[context.deploy-preview]
+  command = "bundle exec jekyll build --drafts"
+
+[context.branch-deploy]
+  command = "bundle exec jekyll build"
+
+# Long-lived caching for static assets (bandwidth is billed at
+# 20 credits per GB on the Free plan).
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Future custom domain migration:
+# When a custom domain is connected, add a 301 redirect block here
+# from the *.netlify.app subdomain to the custom domain, and update
+# `url:` in _config.yml in the same commit.

@@ -1,0 +1,18 @@
+title: "Client-Ready Project Systems"
+description: "Project systems for freelance designers and creative consultants — comparisons based on official vendor documentation."
+lang: en-US
+# GA4: after creating a GA4 property (free), put the Measurement ID below and
+# add the gtag snippet via _includes/head-custom.html (see README).
+# google_analytics: G-XXXXXXXXXX
+
+# --- Netlify / Jekyll (added 2026-11-24, approved migration) ---
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+# Canonical site URL lives ONLY here. Set it to the Netlify production
+# URL after the first deploy, and change only this line when a custom
+# domain is connected later.
+url: ""
+baseurl: ""
