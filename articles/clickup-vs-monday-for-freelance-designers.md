@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "ClickUp vs. monday.com for Freelance Designers: Which One Actually Keeps Client Projects in Scope?"
 description: "A documentation-based comparison of ClickUp and monday.com for solo freelance designers and small creative teams."
 permalink: /articles/clickup-vs-monday-for-freelance-designers/
