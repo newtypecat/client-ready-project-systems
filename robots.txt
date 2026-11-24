@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
 
-# Sitemap: update this line to the production URL after deploy
-# (and after any custom domain migration).
-# Sitemap: https://example.netlify.app/sitemap.xml
+# Sitemap: production URL (set 2026-11-24 after first deploy).
+# Update this line after any custom domain migration.
+Sitemap: https://client-ready-project-systems.netlify.app/sitemap.xml
