@@ -14,5 +14,9 @@ plugins:
 # Canonical site URL lives ONLY here. Set it to the Netlify production
 # URL after the first deploy, and change only this line when a custom
 # domain is connected later.
-url: ""
+url: "https://client-ready-project-systems.netlify.app"
 baseurl: ""
+# Keep the header navigation to the top page only, so long article
+# titles do not wrap in the header.
+header_pages:
+  - index.md
