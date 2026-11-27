@@ -23,7 +23,7 @@ So this comparison judges ClickUp and monday.com on those three jobs, not on who
 
 ### Quick verdict
 
-- **Choose ClickUp if** you are solo or a team of 1–3, you want time tracking available even on the free plan, and you want one client board per client with read-only guest access. ClickUp's paid Core plan starts at $9 per user/month billed yearly (official pricing page, checked November 23, 2026), and there is a Free Forever plan.
+- **Choose ClickUp if** you are solo or a team of 1–3, you want time tracking built in (note: on the free plan it is a trial with use caps — checked November 27, 2026), and you want one client board per client with read-only guest access. ClickUp's paid Core plan starts at $9 per user/month billed yearly (official pricing page, checked November 23, 2026), and there is a Free Forever plan.
 - **Choose monday.com if** your clients are non-technical and board clarity matters more than depth, you are ready to pay for at least 3 seats, and you want guest access from the Standard plan and time tracking on Pro. monday.com has a free plan for up to 2 seats; paid plans start from 3 users.
 - **Choose neither yet if** your main problem is invoicing itself. Both tools track work; neither replaces a dedicated invoicing tool.
 
@@ -33,7 +33,7 @@ So this comparison judges ClickUp and monday.com on those three jobs, not on who
 |---|---|---|
 | Free plan | Yes — Free Forever | Yes — up to 2 seats |
 | Starting paid price | Core: $9/user/month billed yearly | Basic: $9/seat/month billed yearly, 3-seat minimum |
-| Native time tracking | Yes — listed even on the Free plan | Yes — on the Pro plan |
+| Native time tracking | Yes — but on the Free plan it is a trial with use caps (checked November 27, 2026) | Yes — on the Pro plan |
 | Client / guest access | Paid plans include a limited number of external guest seats, plus unlimited read-only guests | Guest access from the Standard plan |
 | Automations | 1,000 actions/month on Core; 10,000 on Business | 250 actions/month on Standard; 25,000 on Pro |
 | AI feature (vendor's name) | ClickUp Brain / Brain MAX | Sidekick (AI assistant), AI columns, AI meeting notetaker |
@@ -77,11 +77,11 @@ Set up one workspace/board structure per client and invite clients only to their
 Yes. Neither ClickUp nor monday.com is presented by its vendor as a full invoicing product. Use time records from the project tool as the evidence behind an invoice issued elsewhere.
 
 **Which free plan is more useful for a solo designer?**
-On the official pricing pages checked, ClickUp's free plan lists native time tracking, which monday reserves for Pro. If billable-hour tracking matters from day one and your budget is $0, that difference is decisive. If you have no time-tracking need and prefer simpler boards, monday's free plan (2 seats) is a reasonable trial.
+On the official pricing pages checked (November 27, 2026), ClickUp's free plan lists native time tracking as a trial with use caps, while monday reserves it for Pro. If billable-hour tracking matters from day one and your budget is $0, that difference is still real — but check the caps inside your own Workspace before relying on the free plan for billing. If you have no time-tracking need and prefer simpler boards, monday's free plan (2 seats) is a reasonable trial.
 
 ### Bottom line
 
-For a solo freelance designer or a 1–3 person creative practice, **ClickUp is the lower-risk start**: a free plan with time tracking, read-only client visibility at no extra seat cost, and a $9 Core plan when you outgrow free. **monday.com is the better comparison point when your team reaches 3+ people** and client-facing simplicity is worth a 3-seat minimum.
+For a solo freelance designer or a 1–3 person creative practice, **ClickUp is the lower-risk start**: a free plan whose time tracking is a trial with use caps, read-only client visibility at no extra seat cost, and a $9 Core plan when you outgrow free. **monday.com is the better comparison point when your team reaches 3+ people** and client-facing simplicity is worth a 3-seat minimum.
 
 Start with the free plan of the one that matches your situation, build the scope-creep workflow above with one real client project, and only upgrade when a specific limit — guest seats, automations, time tracking — actually blocks you.
 
